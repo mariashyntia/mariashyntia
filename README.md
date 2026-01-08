@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=lebih+suka+redvelvet+kalau+suka+kamu+pahit+🎂☕" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=lebih+suka+redvelvet+kalau+suka+kamu+pahit" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 📊 💫 GitHub Stats 💫 📊
+##  GitHub Stats 
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mariashyntia&show_icons=true&theme=buefy&hide_border=true&title_color=FF1493&icon_color=FF69B4&text_color=FF1493&bg_color=ffffff" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mariashyntia&theme=buefy&hide_border=true&stroke=FF1493&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493" />
