@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=Thanks+for+visiting!+🦄💖&fontSize=20&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <div align="center">
