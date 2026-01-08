@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 💖 ✨ My Tech Stack ✨ 💖
+## My Tech Stack 
 
 <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github,vscode&theme=light" />
 
